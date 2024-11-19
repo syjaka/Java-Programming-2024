@@ -1,0 +1,9 @@
+[submodule "junit-exercise-syjaka"]
+	path = junit-exercise-syjaka
+	url = .\\junit-exercise-syjaka\\
+[submodule "map-exercises-syjaka"]
+	path = map-exercises-syjaka
+	url = .\\map-exercises-syjaka\\
+[submodule "warming-up-syjaka"]
+	path = warming-up-syjaka
+	url = .\\warming-up-syjaka\\
